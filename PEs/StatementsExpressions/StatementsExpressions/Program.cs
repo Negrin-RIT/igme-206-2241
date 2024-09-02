@@ -39,6 +39,8 @@
                     )
                 )
                 );
+            // Print a simple message about the total number of points.
+            Console.WriteLine("TOTAL: " + 50);
 
         }
     }

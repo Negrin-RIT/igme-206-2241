@@ -1,0 +1,15 @@
+C:\Users\drnigm\Documents\GitHub\igme-206-2241\PEs\StatementsExpressions\StatementsExpressions\bin\Release\net8.0\StatementsExpressions.exe
+C:\Users\drnigm\Documents\GitHub\igme-206-2241\PEs\StatementsExpressions\StatementsExpressions\bin\Release\net8.0\StatementsExpressions.deps.json
+C:\Users\drnigm\Documents\GitHub\igme-206-2241\PEs\StatementsExpressions\StatementsExpressions\bin\Release\net8.0\StatementsExpressions.runtimeconfig.json
+C:\Users\drnigm\Documents\GitHub\igme-206-2241\PEs\StatementsExpressions\StatementsExpressions\bin\Release\net8.0\StatementsExpressions.dll
+C:\Users\drnigm\Documents\GitHub\igme-206-2241\PEs\StatementsExpressions\StatementsExpressions\bin\Release\net8.0\StatementsExpressions.pdb
+C:\Users\drnigm\Documents\GitHub\igme-206-2241\PEs\StatementsExpressions\StatementsExpressions\obj\Release\net8.0\StatementsExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drnigm\Documents\GitHub\igme-206-2241\PEs\StatementsExpressions\StatementsExpressions\obj\Release\net8.0\StatementsExpressions.AssemblyInfoInputs.cache
+C:\Users\drnigm\Documents\GitHub\igme-206-2241\PEs\StatementsExpressions\StatementsExpressions\obj\Release\net8.0\StatementsExpressions.AssemblyInfo.cs
+C:\Users\drnigm\Documents\GitHub\igme-206-2241\PEs\StatementsExpressions\StatementsExpressions\obj\Release\net8.0\StatementsExpressions.csproj.CoreCompileInputs.cache
+C:\Users\drnigm\Documents\GitHub\igme-206-2241\PEs\StatementsExpressions\StatementsExpressions\obj\Release\net8.0\StatementsExpressions.sourcelink.json
+C:\Users\drnigm\Documents\GitHub\igme-206-2241\PEs\StatementsExpressions\StatementsExpressions\obj\Release\net8.0\StatementsExpressions.dll
+C:\Users\drnigm\Documents\GitHub\igme-206-2241\PEs\StatementsExpressions\StatementsExpressions\obj\Release\net8.0\refint\StatementsExpressions.dll
+C:\Users\drnigm\Documents\GitHub\igme-206-2241\PEs\StatementsExpressions\StatementsExpressions\obj\Release\net8.0\StatementsExpressions.pdb
+C:\Users\drnigm\Documents\GitHub\igme-206-2241\PEs\StatementsExpressions\StatementsExpressions\obj\Release\net8.0\StatementsExpressions.genruntimeconfig.cache
+C:\Users\drnigm\Documents\GitHub\igme-206-2241\PEs\StatementsExpressions\StatementsExpressions\obj\Release\net8.0\ref\StatementsExpressions.dll
